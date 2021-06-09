@@ -1,0 +1,17 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-cli": "^3.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "netlify": "netlify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
